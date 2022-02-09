@@ -30,4 +30,4 @@ Do the command `/remove_hoistednames` and your done! The bot will slowly change 
 
 If we didn't answer your questions or you need some help witht he bot, you may join the Discord server at https://discord.gg/ecz2z36gkB
 
-Anti-Hoist's Invite: 
+Anti-Hoist's Invite: https://discord.com/api/oauth2/authorize?client_id=896513352363286538&permissions=8&scope=bot%20applications.commands
